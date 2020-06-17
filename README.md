@@ -32,7 +32,5 @@ Fisnik Avdiu
 Hurma Hasanaj 
 Saranda Zekolli
 
-/// Licence
-This project is licensed under the Epitech Balkans Licence
 
 /// Acknowledgments
